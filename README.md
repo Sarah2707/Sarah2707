@@ -1,7 +1,7 @@
 Olá, eu sou a Sarah Nunes
 
 - 🔭 I’m currently working on auxiliar de atendimento;
-- 🌱 I’m currently learning JavaScript, HTML, etc;
+- 🌱 I’m currently learning JavaScript, HTML, e CSS;
 
 <div align="center">
   <a href="https://github.com/sarah2707">
